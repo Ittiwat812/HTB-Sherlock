@@ -50,7 +50,7 @@ After that, now we can read a file and it show the timestamp when attacker login
 >
 4. SSH login sessions are tracked and assigned a session number upon login. What is the session number assigned to the attacker's session for the user account from Question 2?
 >
-Since 34 is the first login it open and it close immediately, so we got the next session which is 37 that attacker was performed the attack.
+Since 34 is the first login it open and disconnect immediately, so we got the another session which is 37 that attacker was performed the attack.
 >
 ![image](./images/Session.png)
 > ANS: `37`
