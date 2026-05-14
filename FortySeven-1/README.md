@@ -61,6 +61,7 @@ Access to Evidence - 3 - https://medium.com/@knownsec404team/unveiling-the-past-
 7.  To evade sandbox analysis, the MemLoader HidenDesk tool checks the number of active processes before running. What is the minimum number of processes required for it to proceed?
 >
 Access to the Evidence - 1 - https://securelist.com/mysterious-elephant-apt-ttps-and-tools/117596/ and we found in Customized open-source tools section.
+>
 ![image](./images/MemLoader.png)
 >
 > ANS:  `40`
