@@ -63,9 +63,12 @@ Since 34 is the first login it open and disconnect immediately, so we got the an
 6.  What is the MITRE ATT&CK sub-technique ID used for persistence by creating a new account?
 >
 ![image](./images/MITRE.png)
-> ANS: `cyberjunkie`
+> ANS: `T1136.001`
 >
 7.  What time did the attacker's first SSH session end according to auth.log?
+>
+We can see in the question 4
+>
 > ANS: `2024-03-06 06:37:24`
 9.  The attacker logged into their backdoor account and utilized their higher privileges to download a script. What is the full command executed using sudo?
 >
