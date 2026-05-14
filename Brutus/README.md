@@ -20,7 +20,7 @@ In this Sherlock, you will familiarize yourself with Unix auth.log and wtmp logs
 ![image](./images/AttackerIP.png)
 >
 The `auth.log` file shows multiple failed SSH authentication attempts. In the highlighted log entries, the source IP address `65.2.161.68` repeatedly attempted to authenticate as the user `admin`.
-> ANS: `65.2.161.68`.
+> ANS: `65.2.161.68`
 > 
 As reviewing a log file, it noticed that there are 2 IP address which are `203.101.190.9` and `65.2.161.68`.
 >
@@ -31,6 +31,6 @@ I investigated more in the auth.log file and found the log that accepted a passw
 ![image](./images/AttackerIP.png)
 >
 > ANS: `root`
-4. 
+3. 
 
-```
+
