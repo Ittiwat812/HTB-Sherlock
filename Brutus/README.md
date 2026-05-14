@@ -52,6 +52,6 @@ After that, now we can read a file and it show the timestamp when attacker login
 >
 Since 34 is the first login it open and it close immediately, so we got the next session which is 37 that attacker was performed the attack.
 >
-![image](./images/AttackerLogin.png)
+![image](./images/Session.png)
 > ANS: `37`
 6. 
