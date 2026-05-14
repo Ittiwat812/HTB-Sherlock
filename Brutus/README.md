@@ -17,7 +17,7 @@ In this Sherlock, you will familiarize yourself with Unix auth.log and wtmp logs
 
 ## Step
 1. Analyze the auth.log. What is the IP address used by the attacker to carry out a brute force attack?
-
+![image](./images/AttackerIP.png)
 2. 
 3. 
 
