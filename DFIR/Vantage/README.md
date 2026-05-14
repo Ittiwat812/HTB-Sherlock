@@ -1,10 +1,10 @@
-# Brutus
+# Vantage
 > Write-up author: Ittiwat Nimitliupanit
 > 
 > Category: DFIR
 > 
 > Platform: Hack The Box Sherlocks
 
-![image](./images/Brutus.png)
+![image](./images/vantage.png)
 
 ## Scenario
