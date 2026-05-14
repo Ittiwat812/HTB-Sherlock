@@ -1,7 +1,7 @@
 # FortySeven-1
 > Write-up author: Ittiwat Nimitliupanit
 > 
-> Category: SOC Investigation / Linux Log Analysis
+> Category: Threat Intelligence
 > 
 > Platform: Hack The Box Sherlocks
 
