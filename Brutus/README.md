@@ -67,7 +67,7 @@ Since 34 is the first login it open and disconnect immediately, so we got the an
 >
 7.  What time did the attacker's first SSH session end according to auth.log?
 >
-We can see in the question 4
+![image](./images/sshsession.png)
 >
 > ANS: `2024-03-06 06:37:24`
 9.  The attacker logged into their backdoor account and utilized their higher privileges to download a script. What is the full command executed using sudo?
