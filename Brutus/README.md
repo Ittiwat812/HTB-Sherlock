@@ -1,7 +1,7 @@
 # Brutus
 > Write-up author: Ittiwat Nimitliupanit
 
-![image]()
+![image](./images/Brutus.png)
 
 
 
