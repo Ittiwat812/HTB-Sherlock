@@ -16,6 +16,9 @@ In this Sherlock, you will familiarize yourself with Unix auth.log and wtmp logs
 | `utmp.py` | Python script used to parse or analyse `wtmp`/login session data. | Used to extract readable login records from binary session files for timeline analysis. |
 
 ## Step
-1. In this task we're given a unix auth.log and wtmp logs.
+1. Analyze the auth.log. What is the IP address used by the attacker to carry out a brute force attack?
+
+2. 
+3. 
 
 ```
