@@ -44,5 +44,5 @@ After that, now we can read a file and it show the timestamp when attacker login
 >
 ![image](./images/AttackerLogin.png)
 >
-> ANS: As the answer must be in UTC so it will +5 from my local time `2024-03-06 06:32:45`
-
+ANS: As the answer must be in UTC so it will +5 from my local time `2024-03-06 06:32:45`
+>
