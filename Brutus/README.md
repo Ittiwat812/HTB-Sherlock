@@ -19,7 +19,7 @@ In this Sherlock, you will familiarize yourself with Unix auth.log and wtmp logs
 1. Analyze the auth.log. What is the IP address used by the attacker to carry out a brute force attack?
 ![image](./images/AttackerIP.png)
 The `auth.log` file shows multiple failed SSH authentication attempts. In the highlighted log entries, the source IP address `65.2.161.68` repeatedly attempted to authenticate as the user `admin`.
-#  ANS `65.2.161.68`
+###ANS `65.2.161.68`
 3. 
 4. 
 
