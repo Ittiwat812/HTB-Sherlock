@@ -1,6 +1,8 @@
 # Brutus
 > Write-up author: Ittiwat Nimitliupanit
+> 
 > Category: SOC Investigation / Linux Log Analysis
+> 
 > Platform: Hack The Box Sherlocks
 
 ![image](./images/Brutus.png)
