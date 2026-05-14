@@ -34,7 +34,7 @@ I investigated more in the auth.log file and found the log that accepted a passw
 >
 3. Identify the UTC timestamp when the attacker logged in manually to the server and established a terminal session to carry out their objectives. The login time will be different than the authentication time, and can be found in the wtmp artifact.
 >
-> We noticed that wtmp file can not open it normally. So, we need to run the Python script that included in this challenge to analyze the wtmp log.
+We noticed that wtmp file can not open it normally. So, we need to run the Python script that included in this challenge to analyze the wtmp log.
 >
 We can do this by using:
 ```
