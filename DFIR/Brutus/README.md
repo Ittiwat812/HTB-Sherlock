@@ -1,7 +1,7 @@
 # Brutus
 > Write-up author: Ittiwat Nimitliupanit
 > 
-> Category: SOC Investigation / Linux Log Analysis
+> Category: DFIR
 > 
 > Platform: Hack The Box Sherlocks
 
