@@ -28,7 +28,7 @@ As reviewing a log file, it noticed that there are 2 IP address which are `203.1
 >
 I investigated more in the auth.log file and found the log that accepted a password for root from 65.2.161.68 which is an attacker IP. This means the account has been compromised already.
 >
-![image](./images/AttackerIP.png)
+![image](./images/PasswordAccept.png)
 >
 > ANS: `root`
 3. 
