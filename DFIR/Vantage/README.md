@@ -169,6 +169,7 @@ We use `http.request.method == POST && http.request.uri == "/identity/v3/users"`
 >
 14. What is MITRE tactic id of the technique in task 12?
 >
-> T1136 — Create Account and .003 Cloud Account 
+> T1136 — Create Account and .003 Cloud Account
+>
 > ANS `T1136.003`
 >
