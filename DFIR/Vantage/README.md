@@ -1,4 +1,4 @@
-<img width="1321" height="610" alt="image" src="https://github.com/user-attachments/assets/d5fb54b2-e6f5-47e9-b91c-cf6114c2aaae" /># Vantage
+# Vantage
 > Write-up author: Ittiwat Nimitliupanit
 > 
 > Category: DFIR
