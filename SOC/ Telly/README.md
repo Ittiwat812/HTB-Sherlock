@@ -64,7 +64,7 @@ In this task we go through `Statistics > Endpoints > IPv4` and we see IP 91.99.2
 >
 We use `http.request.uri contains ".db"` to fillter for database file and we found at 9380 when the attacker stole a file.
 >
-![image](./images/fileexfilltered.png)
+![image](./images/fileexfiltered.png)
 >
 > ANS : `2026-01-27 10:49:54`
 >
