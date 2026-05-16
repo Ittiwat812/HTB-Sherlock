@@ -14,7 +14,7 @@ We have 1 PCAPNG file `monitoringservice_export_202610AM-11AM.pcapng` that givie
 >
 1. What CVE is associated with the vulnerability exploited in the Telnet protocol?
 >
-We fillter need port 23 as this is a port for telnet by using `tcp.port == 23`
+We fillter need port 23 as this is a port for telnet by using `tcp.port == 23` right click and follow `TCP steam` we found the payload tha use for exploit the system `USER.-f root.DISPLAY.kali:0.0` We google and we found `CVE-2026-24061` ![link](https://www.offsec.com/blog/cve-2026-24061/)
 >
 > ANS: `CVE-2026-24061`
 >
